@@ -186,11 +186,9 @@ The dataset was cleaned, transformed, and analyzed prior to dashboard creation.
   
 ## How to Run This Project
   
-  1. Clone the repository:
+  ### Clone the repository:
   
-  ```bash
-git clone https://github.com/<your-username>/pizza-sales-analysis.git
-
+  1. git clone https://github.com/<your-username>/pizza-sales-analysis.git
 
  2. Open and execute SQL scripts from the /sql folder.
  
@@ -199,16 +197,15 @@ git clone https://github.com/<your-username>/pizza-sales-analysis.git
  4. Open Power BI → Load cleaned dataset → Open pizza_sales_dashboard.pbix.
  
  5. Explore the interactive visuals.
+
+ --- 
  
- Author
+## Author
  
- Sakshi
- Aspiring Data Analyst
- 
- 📧 Email: awasthi.sakshi000@gmail.com
- 
- 🔗 LinkedIn: https://www.linkedin.com/in/sakshiawasthi000/
- 
- 🔗 GitHub: https://github.com/awasthisakshi000-code
+ - Sakshi
+ - Aspiring Data Analyst
+ - 📧 Email: awasthi.sakshi000@gmail.com
+ - 🔗 LinkedIn: https://www.linkedin.com/in/sakshiawasthi000/
+ - 🔗 GitHub: https://github.com/awasthisakshi000-code
                             
                         
