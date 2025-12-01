@@ -73,27 +73,27 @@ The dataset was cleaned, transformed, and analyzed prior to dashboard creation.
                             
 ## Project Structure
   
-    pizza-sales-analysis/
+ pizza-sales-analysis/
     │
-  ├── README.md
-  ├── data/
-    │ ├── pizza_sales_raw.csv
-  │ └── pizza_sales_cleaned.csv
-  │
-  ├── notebooks/
-    │ ├── cleaning.ipynb
-  │ └── analysis.ipynb
-  │
-  ├── sql/
-    │ └── sales_summary.sql
-  │
-  ├── dashboard/
-    │ └── pizza_sales_dashboard.pbix
-  │
-  ├── images/
-    │ └── dashboard_screenshot.png
-  └── docs/
-    └── business_insights.md
+├── README.md
+├── data/
+  │ ├── pizza_sales_raw.csv
+│ └── pizza_sales_cleaned.csv
+│
+├── notebooks/
+  │ ├── cleaning.ipynb
+│ └── analysis.ipynb
+│
+├── sql/
+   └── sales_summary.sql
+│
+├── dashboard/
+  │ └── pizza_sales_dashboard.pbix
+│
+├── images/
+  │ └── dashboard_screenshot.png
+└── docs/
+  └── business_insights.md
 
 
 ---
